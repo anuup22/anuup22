@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Been here for the last few days : )<br>📚 Currently learning Backend Dev.<br>🎯 Gaining fluency in Fullstack Development.<br>🎲 Fun fact: Although i'm commited to Full-Stack Dev, but won't deny situationship with other technologies ; )</p>
+<p align="left">✨ Been here for the last few days : )<br>📚 Currently practicing NextJS.<br>🎯 Gaining fluency in Fullstack Development.<br>🎲 Fun fact: Although i'm commited to Full-Stack Dev, but won't deny situationship with other technologies ; )</p>
 
 ###
 
