@@ -109,9 +109,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://i.gifer.com/origin/70/7080c87c8cdd71cbf2ae6affaf5d2fae_w200.gif"  />
-</div>
-
-###
